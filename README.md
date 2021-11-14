@@ -8,6 +8,7 @@
 {
     "token": "YOUR TOKEN"
 }
+```
 4.雙擊 `start.bat`
 開始炸服吧!
 
