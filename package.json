@@ -1,0 +1,11 @@
+{
+  "name": "antibot",
+  "version": "1.0.1",
+  "description": "discord",
+  "main": "discord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
